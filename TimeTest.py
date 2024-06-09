@@ -12,7 +12,7 @@ num_met=num_met-1
 
 
 # Ścieżka do pliku graficznego
-file_path = 'photomode_09022024_021657.png'
+file_path = 'test.jpg'
 
 
 
